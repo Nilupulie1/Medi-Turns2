@@ -1,0 +1,24 @@
+/*styling top navigation bar*/
+#topNav{
+  background-color: #dfe6e9;
+  /*background-color: #0984e3;*/
+}
+
+/*styling top navigation bar links*/
+li a{
+  /*color: #74b9ff;*/
+  color: #0984e3;
+  font-weight: 500;
+}
+
+/*Styling top navigation bar links hovers*/
+li a:hover{
+  color: #0984e3;
+  font-weight: 600;
+}
+
+/*Styling signup div*/
+#signupBar{
+  margin-left: 80%;
+  margin-top: 1%;
+}

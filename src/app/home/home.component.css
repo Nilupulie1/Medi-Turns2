@@ -1,0 +1,44 @@
+/*Style home image*/
+
+/*#homeImage{*/
+  /*height: 20%;*/
+
+
+/*}*/
+
+
+/*Style keep your header*/
+h2{
+  color: #0984e3;
+  font-weight: 600;
+}
+
+
+/*Style family more healthy header*/
+h3{
+  color: #636e72;
+}
+
+
+/*Style discription*/
+#disc{
+  /*width: 700px;*/
+width: auto;
+  color: #636e72;
+  font-size: large;
+  font-weight: 400;
+  font-family: "Bell MT";
+}
+
+/*Style home discription div*/
+#homeDisc{
+ /*margin-left: 60%;*/
+  left: 35%;
+  bottom: 10%;
+  position: absolute;
+}
+
+.home{
+  position: relative;
+}
+

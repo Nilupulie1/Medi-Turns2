@@ -1,0 +1,58 @@
+
+/*Style the title*/
+h2{
+  color: #0984e3;
+}
+
+
+/*Placing the title*/
+#title{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+
+/*Style the list*/
+.listStyle {
+  list-style-type:disc;
+  color: #0984e3;
+  /*list-style-image: url('../../assets/images/2.png');*/
+  /*list-style-image: url('../../assets/images/circle.png');*/
+/*list-style-type:;*/
+}
+
+
+/*Placing list content*/
+.listStyle{
+  margin-top: 5%;
+  margin-right: 35%;
+}
+
+/*Style the list content*/
+.listStyle p{
+  color: #636e72;
+}
+
+
+/*Placing the terms logo*/
+#termsImg{
+  position: absolute;
+  left: 75%;
+  top: 60%;
+}
+
+
+/*Style welcome status*/
+#welcomeStatus{
+  color: #0984e3;
+  font-size: large;
+  /*font-family:"Bookman Old Style";*/
+}
+
+
+/*Placing welcome status*/
+#welcomeStatus{
+  margin-left: 3%;
+  margin-top: 5%;
+  margin-bottom: 20%;
+}

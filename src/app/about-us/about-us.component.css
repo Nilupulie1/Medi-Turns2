@@ -1,0 +1,35 @@
+
+/*Style title*/
+h2{
+  color: #0984e3;
+   font-weight: 700;
+}
+
+/*Title placement*/
+#title{
+  position: relative;
+  left: 45%;
+
+}
+
+/*Content placement*/
+#content{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  position: absolute;
+  /*margin-top: 25%;*/
+}
+
+/*Sub title placement*/
+#subTitle{
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 1%;
+}
+
+/*Style sub title*/
+h5{
+  color: #636e72;
+  font-family:"Bell MT";
+}

@@ -1,0 +1,55 @@
+/*Placing home img*/
+.home_img{
+  position: relative;
+}
+
+
+/*!*Placing information bar*!*/
+/*.info_bar{*/
+
+/*}*/
+
+
+/*Placing information block*/
+.info_block{
+  position: absolute;
+  bottom:   30%;
+  left:     15%;
+}
+
+
+/*Styling information header*/
+h4{
+  font-weight:  600;
+  font-size:    40px;
+  color:        white;
+  font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+/*Styling infomation discriotion*/
+p{
+  color:     #636e72;
+  font-size: 20px;
+}
+
+
+.vertical_line{
+  height: 150px;
+  width: 0.5%;
+  background-color: #0984e3;
+
+}
+
+.vertical_line{
+  position: relative;
+  top: 5%;
+}
+
+.info_bar{
+  position: relative;
+  left: 2%;
+  bottom: 1%;
+  /*top: 5%;*/
+
+}

@@ -1,0 +1,13 @@
+/*Place home page*/
+app-home{
+  position: relative;
+  /*top:80px;*/
+}
+
+/*Placing navigation bar*/
+app-top-nav-bar{
+  position: absolute;
+  z-index:  99;
+  left:     0;
+  right:    0;
+}

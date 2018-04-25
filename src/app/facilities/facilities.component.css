@@ -1,0 +1,94 @@
+/*Style image*/
+#service_img{
+  height:   350px;
+  width:    1100px;
+}
+
+/*Placing image*/
+#service_img{
+  position: absolute;
+  left:     10%;
+}
+
+/*Style main div*/
+#service_main{
+  height: 460px;
+}
+
+/*Style icon*/
+.icon{
+  color:rgb(0, 228, 193) ;
+}
+
+/*Placing doctor div*/
+#doctor{
+  position: relative;
+  left: 15%;
+  top:25%;
+}
+
+/*Placing doctor icon*/
+.doc_icon{
+ position: relative;
+  left: 5%;
+}
+
+/*Placing and Styiling doctor discription*/
+.doc_disc{
+  position: relative;
+  left: 10px;
+  width: 200px;
+  color: white;
+}
+
+/*Styling read more link*/
+.more_info {
+  font-size:      12px;
+  text-align:     center;
+  color:          white;
+  text-transform: uppercase;
+  display:        inline-block;
+  letter-spacing: 2px;
+  background:     #2d3436;
+  outline:        none;
+  padding:        8px 8px;
+  border:         2px solid rgb(0, 228, 193)
+}
+
+/*Styling read more link*/
+.more_info a{
+  text-decoration: none!important;
+  font-weight:     400;
+  /*background-color: black;*/
+  /*color: white;*/
+}
+
+/*Styling read more hover*/
+.more_info:hover{
+  background: rgb(0, 228, 193);
+  border:     2px solid rgb(0, 228, 193);
+}
+
+/*Placing read more link*/
+.more_info{
+  position: relative;
+  left: 2%;
+  top:10px;
+}
+
+#adroid{
+  position: relative;
+  left: 45%;
+  bottom: 6%;
+}
+
+#asd{
+  position: relative;
+  top:25%;
+}
+
+#hours{
+  position: relative;
+  left:70%;
+  bottom: 37%;
+}

@@ -1,0 +1,83 @@
+/*Style  nav bar*/
+ul li{
+  /*!*color: white;*!*/
+  font-size:      17px;
+  text-transform: uppercase;
+  font-weight:    600;
+  letter-spacing: 2px;
+  text-align:     center;
+  position:       relative;
+  display:        block;
+  padding:        10px 15px;
+}
+
+/*Style links*/
+li a{
+  color:        white;
+  font-family: "Arial Narrow";
+}
+
+/*style top nav add transparency*/
+#topNav{
+  background-color: black;
+  opacity:          0.5;
+  width: 1330px;
+
+}
+
+/*Removing nav boader*/
+#topNav{
+  border:             0;
+  -webkit-box-shadow: none;
+  box-shadow:         none;
+
+}
+
+.navbar.navbar-default .navbar-collapse {
+  border:             0;
+  -webkit-box-shadow: none;
+  box-shadow:         none;
+}
+/*Style hover*/
+li a:hover{
+
+  color:              rgb(0, 228, 193);
+  border-left:        1px solid #fff;
+  border-bottom:      1px solid #fff;
+  background-color:   transparent;
+  -webkit-box-shadow: 2px 15px 70px 2px rgba(0,0,0,0.75);
+  -moz-box-shadow:    2px 15px 70px 2px rgba(0,0,0,0.75);
+  box-shadow:         2px 15px 70px 2px rgba(0,0,0,0.75);
+}
+
+/*Placed Logo*/
+.navbar-brand{
+  position: absolute;
+  left:     5%;
+  top:      10%;
+}
+
+/*Style logo*/
+#logo{
+  font-size:    30px;
+  color:        white;
+  font-family: "Arial Narrow";
+;
+}
+
+/*body a{*/
+  /*transition:0.5s all;*/
+  /*-webkit-transition:0.5s all;*/
+  /*-moz-transition:0.5s all;*/
+  /*-o-transition:0.5s all;*/
+  /*-ms-transition:0.5s all;*/
+  /*text-decoration:none;*/
+/*}*/
+
+#topNav{
+  /*height: 10px;*/
+}
+
+
+
+

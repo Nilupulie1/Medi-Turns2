@@ -1,0 +1,83 @@
+/*Placing image*/
+#about_img{
+  position: absolute;
+  /*top:      70px;*/
+  left:     10%;
+
+
+}
+
+/*Placing main div*/
+.about_main{
+  position: relative;
+  top:      0;
+  height:   510px;
+  width: 1330px;
+}
+
+/*Placing outer discription div*/
+#discription_outer{
+  position: relative;
+  top:      0;
+  left:     50%;
+}
+
+/*Styling outer discription div*/
+#discription_outer{
+  background-color: white;
+  right:            10%;
+  left:             690px;
+  height:           360px;
+  width:            550px;
+}
+
+/*Placing discription  div*/
+#discription{
+position: relative;
+  top:    1%;
+}
+
+/*Style Discription header*/
+#discription h2{
+  color:  #0984e3;
+}
+
+/*Style discription paragraph*/
+#discription p{
+  color:  #636e72;
+  text-align: justify;
+}
+
+/*Placing read more */
+#more_info {
+  font-size:      15px;
+  text-align:     center;
+  color:          white;
+  text-transform: uppercase;
+  display:        inline-block;
+  letter-spacing: 2px;
+  background:     rgb(0, 228, 193);
+  outline:        none;
+  padding:        10px 22px;
+  border:         2px solid rgb(0, 228, 193)
+}
+
+/*Styling activated read more */
+#more_info a{
+  text-decoration: none!important;
+  font-weight:     400;
+  /*color: white;*/
+}
+
+/*Styling read more hover*/
+#more_info:hover{
+  background: #fff;
+  border:     2px solid rgb(0, 228, 193);
+}
+
+#more_info a:hover{
+  /*color: black;*/
+}
+
+
+

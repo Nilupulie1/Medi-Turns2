@@ -1,0 +1,152 @@
+/*Style image*/
+#service_img{
+  height:   450px;
+  width:    1330px;
+}
+
+/*Placing image*/
+#service_img{
+  position: absolute;
+  left:     0%;
+}
+
+/*Style main div*/
+#service_main{
+  height: 510px;
+  width: 1330px;
+}
+
+/*Style icon*/
+.icon{
+  color:rgb(0, 228, 193) ;
+}
+
+/*Placing doctor div*/
+#doctor{
+  position: relative;
+  left: 15%;
+  top:40%;
+  /*background-color: #636e72;*/
+}
+
+/*Styling doctor div*/
+#doctor{
+  height: 220px;
+  width: 210px;
+}
+
+/*Placing doctor icon*/
+.doc_icon{
+ position: relative;
+  top: 25px;
+  left: 40%;
+}
+
+/*Placing and Styiling doctor discription*/
+.doc_disc{
+  position: relative;
+  top: 15%;
+  left: 20px;
+  width: 200px;
+  color: white;
+}
+
+/*Styling read more link*/
+.more_info {
+  font-size:      12px;
+  text-align:     center;
+  color:          white;
+  text-transform: uppercase;
+  display:        inline-block;
+  letter-spacing: 2px;
+  background:     #2d3436;
+  outline:        none;
+  padding:        8px 8px;
+  border:         2px solid rgb(0, 228, 193)
+}
+
+/*Styling read more link*/
+.more_info a{
+  text-decoration: none!important;
+  font-weight:     400;
+  /*background-color: black;*/
+  /*color: white;*/
+}
+
+/*Styling read more hover*/
+.more_info:hover{
+  background: rgb(0, 228, 193);
+  border:     2px solid rgb(0, 228, 193);
+}
+
+/*Placing read more link*/
+.more_info{
+  position: relative;
+  left:     50px;
+  top:      30px;
+}
+
+/*Placing android div*/
+#adroid{
+  position: relative;
+  left:     45%;
+  bottom:   2%;
+  /*right:*/
+  /*top: 0;*/
+  /*background-color: #636e72;*/
+}
+
+/*Styling android div*/
+#adroid{
+  height: 220px;
+  width:  210px;
+}
+
+
+#asd{
+  position: relative;
+  top:      20%;
+
+}
+
+#asd{
+  height: 220px;
+  width: 210px;
+}
+
+/*Placing hospital div*/
+#hours {
+  position: relative;
+  left: 70%;
+  bottom: 45%;
+  /*right: 5%;*/
+  /*top: 1%;*/
+  /*background-color: #636e72;*/
+}
+
+/*Styling hours div*/
+#hours{
+  height: 220px;
+  width: 210px;
+}
+
+/*Styling embose div*/
+.embose:hover{
+  color:              rgb(0, 228, 193);
+  border-left:        1px solid #fff;
+  border-bottom:      1px solid #fff;
+  background-color:   transparent;
+  -webkit-box-shadow: 2px 15px 70px 2px rgba(0,0,0,0.75);
+  -moz-box-shadow:    2px 15px 70px 2px rgba(0,0,0,0.75);
+  box-shadow:         2px 15px 70px 2px rgba(0,0,0,0.75);
+}
+ /*.embose{*/
+   /*height: px;*/
+ /*}*/
+
+/*Styling facility header*/
+#fac_header{
+  position: relative;
+  bottom: 25%;
+  color:#636e72;
+}

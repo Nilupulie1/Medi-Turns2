@@ -1,0 +1,82 @@
+#terms_img{
+  height: 450px;
+  width: 575px;
+}
+
+#terms_img{
+  position: relative;
+  left:     60%;
+  /*top:      0;*/
+  /*bottom: 100%;*/
+}
+
+#terms_disc{
+  height: 400px;
+  width:  690px;
+  opacity: 0.6;
+  /*background-color: #636e72;*/
+}
+
+#terms_disc{
+  position: relative;
+  left:     4%;
+  /*top: 0;*/
+  bottom: 100%;
+
+}
+
+ul{
+  text-align: justify;
+}
+
+h2{
+  color: #0984e3;
+}
+
+h2{
+  position: relative;
+  left: 5%;
+}
+
+ul li{
+  color:  #0984e3;
+}
+
+ul li p{
+  color: #636e72;
+}
+
+#welcomeStatus h3{
+  color:  rgb(0, 228, 193);
+  font-weight: 100;
+}
+
+#welcomeStatus {
+  position: relative;
+  left: 7%;
+  /*bottom: 105%;*/
+}
+
+#terms_main{
+  /*background-color: #0984e3;*/
+  width: 1250px;
+  height: 450px;
+}
+
+#terms_main{
+  /*position: absolute;*/
+}
+
+/*#water_mark{*/
+  /*position: relative;*/
+  /*left:30%;*/
+/*}*/
+
+.listStyle{
+  background-image: url("../../assets/images/terms.png");
+  background-repeat: no-repeat;
+  background-position:center;
+  /*background-color: #0984e3;*/
+  height: 330px;
+
+}
